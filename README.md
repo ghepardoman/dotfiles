@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ghepardoman
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ghepardoman/ghepardoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
