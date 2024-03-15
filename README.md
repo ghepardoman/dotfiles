@@ -16,7 +16,7 @@ Icons theme: Papirus-dark
 Cursor theme: MacOS Big Sur
 
 ## Showcase
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/ghepardoman/ghepardoman/blob/58d34991d250252d7c8314933c6187abb00bf5eb/2023-11-10_23-36.png)https://github.com/ghepardoman/ghepardoman/blob/58d34991d250252d7c8314933c6187abb00bf5eb/2023-11-10_23-36.png)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
