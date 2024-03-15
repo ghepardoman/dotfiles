@@ -37,3 +37,8 @@ Cursor theme: MacOS Big Sur
  <img alt="image" src="[YOUR-DEFAULT-IMAGE](https://cdn.discordapp.com/attachments/1032305766905958431/1218325863884394639/2023-11-10-230510_3840x1080_scrot.png?ex=66074161&is=65f4cc61&hm=3bc959d5d28bffd3b24f551c165268a11ca396115c9ac52cd4a6ccf51baf0e8f&)https://cdn.discordapp.com/attachments/1032305766905958431/1218325863884394639/2023-11-10-230510_3840x1080_scrot.png?ex=66074161&is=65f4cc61&hm=3bc959d5d28bffd3b24f551c165268a11ca396115c9ac52cd4a6ccf51baf0e8f&">
 </picture>
 ![enter image description here](https://i.imgur.com/FnAXP3X.jpeg)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://i.imgur.com/FnAXP3X.jpeg)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://i.imgur.com/FnAXP3X.jpeg)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://i.imgur.com/FnAXP3X.jpeg)https://i.imgur.com/FnAXP3X.jpeg">
+</picture>
