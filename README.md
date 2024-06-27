@@ -6,7 +6,7 @@ Simplistic i3-wm environment constructed with polybar and addtional custom scrip
 - **Topbar**: polybar
 - **Compositor**: picom
 - **Terminal**: alacritty
-- **Editor**: nvim ---> lazyvim
+- **Editor**: nvim
 - **Display manager**: none
 - **Launcher**: rofi
 - **Terminal font**: JetBrainsMono Nerd Font
