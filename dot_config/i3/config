@@ -168,16 +168,15 @@ bar {
 for_window [class="^.*"] border pixel 0
 gaps inner 5
 gaps outer 5
-exec --no-startup-id bash ~/.screenlayout/screens.sh
-exec --no-startup-id picom &
-exec /usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
-exec --no-startup-id bash /home/ghepa/.config/polybar/panels/launch.sh
-exec --no-startup-id bash /home/ghepa/wallpapers.sh
-exec --no-startup-id ~/Downloads/i3-alternating-layout/alternating_layouts.py
-#exec --no-startup-id feh --bg-fill ~/Pictures/wallpaperflare.com_wallpaper\(1\).jpg
-exec --no-startup-id dunst &
-exec --no-startup-id nvidia-settings -a [gpu:0]/GpuPowerMizerMode=1
+exec --no-startup-id bash ~/.screenlayout/screens.sh #set display resolution and refresh rate
+exec --no-startup-id picom & #start picom
+exec /usr/lib/mate-polkit/polkit-mate-authentication-agent-1 & #mate polkit agent 
+exec --no-startup-id bash /home/ghepa/.config/polybar/custom/launch.sh #polybar
+exec --no-startup-id bash /home/ghepa/wallpapers.sh #script to randomize wallpapers at start
+exec --no-startup-id ~/Downloads/i3-alternating-layout/alternating_layouts.py #alternate tiling window layouts
+exec --no-startup-id dunst & #notification center
 bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86AudioStop exec playerctl stop
+#using playerctl to being able to use media keyboard shortcuts 
