@@ -1,5 +1,5 @@
 # Dot Files
-Simplistic i3-wm environment constructed with polybar and addtional custom scripts.
+Simplistic i3-wm environment constructed with polybar and additonal custom scripts.
 
 - **OS**: archlinux
 - **WM**: i3-wm
