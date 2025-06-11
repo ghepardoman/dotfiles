@@ -24,3 +24,7 @@ Simplistic i3-wm environment constructed with polybar and additonal custom scrip
 ![alt text](https://github.com/ghepardoman/dotfiles/blob/main/2025-06-11-153308_1920x1080_scrot.png)
 ![alt text](https://github.com/ghepardoman/dotfiles/blob/main/2025-06-11-153044_1920x1080_scrot.png)
 ![alt text](https://github.com/ghepardoman/ghepardoman/blob/main/2023-11-10_23-36.png)
+
+
+## 📌 Nota di presentazione
+Capolavoro presentato da Giovanni De Rosa sulla Piattaforma Unica – 11 giugno 2025.
