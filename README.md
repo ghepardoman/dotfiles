@@ -8,7 +8,7 @@ Simplistic i3-wm environment constructed with polybar and additonal custom scrip
 - **Terminal**: alacritty
 - **Editor**: nvim
 - **Display manager**: none
-- **Launcher**: rofi
+- **Launcher**: rofi (alt+tab functionality)
 - **File manager**: thunar
 - **Screenshot tool**: flameshot
 - **Notification center**: dunst
