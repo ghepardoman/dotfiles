@@ -21,6 +21,6 @@ Simplistic i3-wm environment constructed with polybar and additonal custom scrip
 ## Showcase
 ![alt text](https://github.com/ghepardoman/ghepardoman/blob/main/2023-11-10_22-34.png)
 ![alt text](https://github.com/ghepardoman/ghepardoman/blob/main/2023-11-10-225515_3840x1080_scrot.png)
-![alt text](https://github.com/ghepardoman/ghepardoman/blob/main/2023-11-10-230225_3840x1080_scrot.png)
-![alt text](https://github.com/ghepardoman/ghepardoman/blob/main/2023-11-10-230510_3840x1080_scrot.png)
+![alt text](https://github.com/ghepardoman/dotfiles/blob/main/2025-06-11-153308_1920x1080_scrot.png)
+![alt text](https://github.com/ghepardoman/dotfiles/blob/main/2025-06-11-153044_1920x1080_scrot.png)
 ![alt text](https://github.com/ghepardoman/ghepardoman/blob/main/2023-11-10_23-36.png)
